@@ -17,6 +17,6 @@ Código em java, utlizando Cucumber e Javadoc dentro da Eclipse IDE
 ![image](https://github.com/ArthurBechir/Conta-Banco/assets/124618876/3b553a34-8e08-475e-a0d5-e06afeb57917)
 
 ## Publicação
-https://github.com/ArthurBechir/Contabancos
+https://github.com/ArthurBechir/ContaBancos
 
 ## Ultima atualização 28/11/2023
